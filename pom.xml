@@ -10,7 +10,7 @@
 
     <groupId>com.yourconf</groupId>
     <artifactId>platform</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>development</version>
     <description>Your Conf platform</description>
 
     <packaging>pom</packaging>

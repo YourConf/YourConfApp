@@ -5,7 +5,7 @@
     <parent>
         <artifactId>platform</artifactId>
         <groupId>com.yourconf</groupId>
-        <version>1-SNAPSHOT</version>
+        <version>development</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
