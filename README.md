@@ -21,5 +21,10 @@ Just run the application using `mvn spring-boot:run -f yc-app`
 
 `mvn verify`
 
+
+## Getting involved
+
+General instructions on _how_ to contribute should be stated with a link to [CONTRIBUTING](CONTRIBUTING.md).
+
 ## Open source licensing info
 [LICENSE](LICENSE)
