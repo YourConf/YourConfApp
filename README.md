@@ -20,3 +20,6 @@ Just run the application using `mvn spring-boot:run -f yc-app`
 ## How to test the software
 
 `mvn verify`
+
+## Open source licensing info
+[LICENSE](LICENSE)
